@@ -1,6 +1,5 @@
 nterms = int(input("How many terms? "))
 #hello
-#world
 n1, n2 = 0, 1
 count = 0
 if nterms <= 0:
